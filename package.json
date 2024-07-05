@@ -1,0 +1,16 @@
+{
+    "name": "my-project",
+    "source": "src/index.html",
+    "browserslist": "> 0.5%, last 2 versions, not dead",
+    "homepage": "",
+    "scripts": {
+        "start": "parcel --no-cache",
+        "build": "parcel build"
+    },
+    "devDependencies": {
+        "parcel": "^2.12.0"
+    },
+    "dependencies": {
+        "gh-pages": "^6.1.1"
+    }
+}
